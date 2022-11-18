@@ -1,0 +1,3 @@
+Welcome to Insanity Notes!
+----------------------------------------------
+To get started on mac, click 'command' + 'o' to open a directory.
